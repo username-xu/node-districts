@@ -1,0 +1,16 @@
+{
+  "name": "node-districts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^5.0.5",
+    "superagent-charset": "^1.2.0"
+  }
+}
